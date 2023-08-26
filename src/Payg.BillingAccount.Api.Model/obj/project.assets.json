@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\muhammadi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api.Model\\Sample.BillingAccount.Api.Model.csproj",
+      "projectName": "Sample.BillingAccount.Api.Model",
+      "projectPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api.Model\\Sample.BillingAccount.Api.Model.csproj",
+      "packagesPath": "C:\\Users\\muhammadi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api.Model\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\NuGet.Config",
+        "C:\\Users\\muhammadi\\Downloads\\NuGet.Config",
+        "C:\\Users\\muhammadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://artifactory.trainline.tools/artifactory/api/nuget/nuget-virtual": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

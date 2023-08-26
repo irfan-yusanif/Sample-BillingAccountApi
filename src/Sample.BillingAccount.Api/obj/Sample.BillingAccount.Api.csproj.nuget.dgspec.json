@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api/Sample.BillingAccount.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api.Model/Sample.BillingAccount.Api.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api.Model/Sample.BillingAccount.Api.Model.csproj",
+        "projectName": "Sample.BillingAccount.Api.Model",
+        "projectPath": "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api.Model/Sample.BillingAccount.Api.Model.csproj",
+        "packagesPath": "/Users/irfanyusanif/.nuget/packages/",
+        "outputPath": "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/NuGet.Config",
+          "/Users/irfanyusanif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api/Sample.BillingAccount.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api/Sample.BillingAccount.Api.csproj",
+        "projectName": "Sample.BillingAccount.Api",
+        "projectPath": "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api/Sample.BillingAccount.Api.csproj",
+        "packagesPath": "/Users/irfanyusanif/.nuget/packages/",
+        "outputPath": "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/NuGet.Config",
+          "/Users/irfanyusanif/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api.Model/Sample.BillingAccount.Api.Model.csproj": {
+                "projectPath": "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api.Model/Sample.BillingAccount.Api.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.9.55, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "DateOnlyTimeOnly.AspNet": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{A2AA1E1C-B672-4B5C-99A8-9FAD13EF510E}|Sample.BillingAccount" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.src.Sample.BillingAccount.Api PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

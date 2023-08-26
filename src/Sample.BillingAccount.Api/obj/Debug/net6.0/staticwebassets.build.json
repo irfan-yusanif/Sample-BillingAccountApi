@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7RuIcMBjpQzQxps9wjB3/NiTuPaCItwIWMqJhemUUZ8=",
+  "Source": "Sample.BillingAccount.Api",
+  "BasePath": "_content/Sample.BillingAccount.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

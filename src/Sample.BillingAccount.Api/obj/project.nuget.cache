@@ -1,0 +1,293 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Ygatuob+CzWzcbQ7aZ+pxiHKzxCP7Is+UHmwqVZ+69gQ/eMWymRzsTf/jBBF69898g/PzqC84DeFvGFtrMlUA==",
+  "success": false,
+  "projectFilePath": "/Users/irfanyusanif/Documents/Repo/work/Sample-BillingAccountApi/src/Sample.BillingAccount.Api/Sample.BillingAccount.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/irfanyusanif/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/awssdk.core/3.7.13.6/awssdk.core.3.7.13.6.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/awssdk.extensions.netcore.setup/3.7.2/awssdk.extensions.netcore.setup.3.7.2.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/awssdk.s3/3.7.9.55/awssdk.s3.3.7.9.55.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/dateonlytimeonly.aspnet/2.1.1/dateonlytimeonly.aspnet.2.1.1.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/microsoft.extensions.configuration.abstractions/2.0.0/microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/irfanyusanif/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AWSSDK.Extensions.NETCore.Setup' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AWSSDK.Extensions.NETCore.Setup'&semVerLevel=2.0.0'.",
+      "libraryId": "AWSSDK.Extensions.NETCore.Setup"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AWSSDK.Extensions.NETCore.Setup' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AWSSDK.Extensions.NETCore.Setup'&semVerLevel=2.0.0'.",
+      "libraryId": "AWSSDK.Extensions.NETCore.Setup"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'DateOnlyTimeOnly.AspNet' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='DateOnlyTimeOnly.AspNet'&semVerLevel=2.0.0'.",
+      "libraryId": "DateOnlyTimeOnly.AspNet"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'DateOnlyTimeOnly.AspNet' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='DateOnlyTimeOnly.AspNet'&semVerLevel=2.0.0'.",
+      "libraryId": "DateOnlyTimeOnly.AspNet"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AutoMapper.Extensions.Microsoft.DependencyInjection' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AutoMapper.Extensions.Microsoft.DependencyInjection'&semVerLevel=2.0.0'.",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AutoMapper.Extensions.Microsoft.DependencyInjection' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AutoMapper.Extensions.Microsoft.DependencyInjection'&semVerLevel=2.0.0'.",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Swashbuckle.AspNetCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Swashbuckle.AspNetCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AWSSDK.S3' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AWSSDK.S3'&semVerLevel=2.0.0'.",
+      "libraryId": "AWSSDK.S3"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AWSSDK.S3' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AWSSDK.S3'&semVerLevel=2.0.0'.",
+      "libraryId": "AWSSDK.S3"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Options' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.Options'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Options' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.Options'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AutoMapper' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AutoMapper'&semVerLevel=2.0.0'.",
+      "libraryId": "AutoMapper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AutoMapper' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AutoMapper'&semVerLevel=2.0.0'.",
+      "libraryId": "AutoMapper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore.SwaggerGen' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Swashbuckle.AspNetCore.SwaggerGen'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore.SwaggerGen"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore.SwaggerGen' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Swashbuckle.AspNetCore.SwaggerGen'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore.SwaggerGen"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore.Swagger' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Swashbuckle.AspNetCore.Swagger'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore.Swagger"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore.Swagger' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Swashbuckle.AspNetCore.Swagger'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore.Swagger"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.ApiDescription.Server' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.ApiDescription.Server'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.ApiDescription.Server"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.ApiDescription.Server' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.ApiDescription.Server'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.ApiDescription.Server"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore.SwaggerUI' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Swashbuckle.AspNetCore.SwaggerUI'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore.SwaggerUI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore.SwaggerUI' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Swashbuckle.AspNetCore.SwaggerUI'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore.SwaggerUI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AWSSDK.Core' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AWSSDK.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "AWSSDK.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AWSSDK.Core' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AWSSDK.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "AWSSDK.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.DependencyInjection.Abstractions' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.DependencyInjection.Abstractions' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.DependencyInjection.Abstractions' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.DependencyInjection.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Configuration.Abstractions' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.Configuration.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Configuration.Abstractions' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.Configuration.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.OpenApi' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.OpenApi'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.OpenApi"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.OpenApi' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.OpenApi'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.OpenApi"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Primitives' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.Primitives'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Primitives' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.Primitives'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Primitives' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.Primitives'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Primitives' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.Extensions.Primitives'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.CSharp' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.CSharp' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='Microsoft.CSharp'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Runtime.CompilerServices.Unsafe' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Runtime.CompilerServices.Unsafe' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Runtime.CompilerServices.Unsafe' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='System.Runtime.CompilerServices.Unsafe'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AWSSDK.Core' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AWSSDK.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "AWSSDK.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AWSSDK.Core' from remote source 'https://artifactory.sample.tools/artifactory/api/nuget/nuget-virtual/FindPackagesById()?id='AWSSDK.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "AWSSDK.Core"
+    }
+  ]
+}

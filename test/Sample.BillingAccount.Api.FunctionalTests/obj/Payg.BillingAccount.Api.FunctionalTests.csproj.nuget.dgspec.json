@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.FunctionalTests\\Payg.BillingAccount.Api.FunctionalTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api.Model\\Sample.BillingAccount.Api.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api.Model\\Sample.BillingAccount.Api.Model.csproj",
+        "projectName": "Sample.BillingAccount.Api.Model",
+        "projectPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api.Model\\Sample.BillingAccount.Api.Model.csproj",
+        "packagesPath": "C:\\Users\\muhammadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\NuGet.Config",
+          "C:\\Users\\muhammadi\\Downloads\\NuGet.Config",
+          "C:\\Users\\muhammadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.trainline.tools/artifactory/api/nuget/nuget-virtual": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api\\Sample.BillingAccount.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api\\Sample.BillingAccount.Api.csproj",
+        "projectName": "Sample.BillingAccount.Api",
+        "projectPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api\\Sample.BillingAccount.Api.csproj",
+        "packagesPath": "C:\\Users\\muhammadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\NuGet.Config",
+          "C:\\Users\\muhammadi\\Downloads\\NuGet.Config",
+          "C:\\Users\\muhammadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.trainline.tools/artifactory/api/nuget/nuget-virtual": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api.Model\\Sample.BillingAccount.Api.Model.csproj": {
+                "projectPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api.Model\\Sample.BillingAccount.Api.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.9.55, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "DateOnlyTimeOnly.AspNet": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Trainline.ConventionalDeploy.Integration": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Trainline.Extensions.Logging.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Trainline.Metrics.Abstractions": {
+              "target": "Package",
+              "version": "[1.3.4, )"
+            },
+            "Trainline.Metrics.NewRelic": {
+              "target": "Package",
+              "version": "[1.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.FunctionalTests\\Payg.BillingAccount.Api.FunctionalTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.FunctionalTests\\Payg.BillingAccount.Api.FunctionalTests.csproj",
+        "projectName": "Payg.BillingAccount.Api.FunctionalTests",
+        "projectPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.FunctionalTests\\Payg.BillingAccount.Api.FunctionalTests.csproj",
+        "packagesPath": "C:\\Users\\muhammadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.FunctionalTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\NuGet.Config",
+          "C:\\Users\\muhammadi\\Downloads\\NuGet.Config",
+          "C:\\Users\\muhammadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.trainline.tools/artifactory/api/nuget/nuget-virtual": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.TestUtils\\Payg.BillingAccount.Api.TestUtils.csproj": {
+                "projectPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.TestUtils\\Payg.BillingAccount.Api.TestUtils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NScenario": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.TestUtils\\Payg.BillingAccount.Api.TestUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.TestUtils\\Payg.BillingAccount.Api.TestUtils.csproj",
+        "projectName": "Payg.BillingAccount.Api.TestUtils",
+        "projectPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.TestUtils\\Payg.BillingAccount.Api.TestUtils.csproj",
+        "packagesPath": "C:\\Users\\muhammadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\test\\Payg.BillingAccount.Api.TestUtils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\NuGet.Config",
+          "C:\\Users\\muhammadi\\Downloads\\NuGet.Config",
+          "C:\\Users\\muhammadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.trainline.tools/artifactory/api/nuget/nuget-virtual": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api\\Sample.BillingAccount.Api.csproj": {
+                "projectPath": "C:\\Users\\muhammadi\\Downloads\\repo test\\PAYG-BillingAccountApi-7b122acd2b928fbbe049476f3b7f7f652ba9d4c6\\src\\Payg.BillingAccount.Api\\Sample.BillingAccount.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.18.0, )"
+            },
+            "AutoFixture.Xunit2": {
+              "target": "Package",
+              "version": "[4.18.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "MELT": {
+              "target": "Package",
+              "version": "[0.8.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
